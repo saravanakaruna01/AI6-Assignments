@@ -1,6 +1,6 @@
 ```
-This python file si a goood starting pouint.
-Activation Funstions
+This python file 
+Activation 
 ```
 
 #libraries
